@@ -1,0 +1,30 @@
+.parent{
+  
+  /* background-color: rgb(43, 0, 200); */
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5vh;
+  align-items: center;
+}
+
+
+.red{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px white;
+
+  
+}
+
+.blue{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.green{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
