@@ -9,8 +9,8 @@
 }
 
 
-.red{
-  background-color: red;
+.yellow{
+  background-color: rgb(255, 202, 68);
   width: 200px;
   height: 200px;
   border: 1px white;
@@ -18,8 +18,8 @@
   
 }
 
-.blue{
-  background-color: blue;
+.red{
+  background-color: rgb(253, 13, 13);
   width: 200px;
   height: 200px;
 }
